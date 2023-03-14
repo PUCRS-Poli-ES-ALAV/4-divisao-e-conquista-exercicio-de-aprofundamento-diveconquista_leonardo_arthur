@@ -38,6 +38,7 @@ public class DnC {
 
         merSrt(a);
         merSrt(b);
+        merge(a,b);
 
 
 
